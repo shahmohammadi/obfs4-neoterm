@@ -49,6 +49,8 @@ Bridge obfs4 194.135.89.71:443 5D21705C1F5364C2C965C7102C9F0A984E687684 cert=nz/
 
 Put your bridges and note that you will add Bridge before bridges
 
+# Use tor 
+
 Now you must enter the tor command
 
 tor
